@@ -1,4 +1,4 @@
-# fNIRS-2024_ERA-Decon
+# fNIRS-2024_ER-Decon
 
 _Last edit April 2024_
 
