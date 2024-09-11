@@ -14,7 +14,9 @@ Scripts for running deconvolution and event-related averaging on fNIRS data. The
 
 **Requirements:**
 
-MATLAB (currently using 2022b), AnalyzIR Toolbox and Homer3.
+MATLAB (currently using 2022b) and AnalyzIR Toolbox.
+
+Uses [this tool](https://github.com/BrainsCAN-fNIRS/fNIRS_Tools) to handle file io, but could easily be adapted for other organization schemes.
 
 <br>
 
