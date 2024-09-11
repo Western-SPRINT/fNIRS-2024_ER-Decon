@@ -22,4 +22,4 @@ Uses [this tool](https://github.com/BrainsCAN-fNIRS/fNIRS_Tools) to handle file 
 
 **Credits:**
 
-Kevin Stubbs 
+Kevin Stubbs, Michaela Kent 
