@@ -1,6 +1,6 @@
 # fNIRS-2024_ER-Decon
 
-_Last edit April 2024_
+_Last edit Sept 2024_
 
 This repository is currently under development and will be populated at a later date.
 
