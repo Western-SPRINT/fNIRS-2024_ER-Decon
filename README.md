@@ -2,8 +2,6 @@
 
 _Last edit Sept 2024_
 
-This repository is currently under development and will be populated at a later date.
-
 <br>
 
 **Description:**
